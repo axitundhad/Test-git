@@ -4,3 +4,11 @@ This set your git username globally, works for all repository
 
 git config user.name "Axit LaNet"
 This set your git username locally, works only for this repository
+
+git revert: git revert is used to revert any commit, by using revert commitHash, it will remove all changes of that commit and also delete that commit 
+
+git reset: there are two types of command for git reset,
+git reset commitHash: by using this your changes remain as it is, just commit will be deleted
+git reset --hard commitHash: commit and changes made by that commit both will be deleted
+
+git checkout: by using checkout, we can switch branches, can create branches, can time travel, detached head, also restore changes
