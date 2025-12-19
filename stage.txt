@@ -1,0 +1,1 @@
+This is stage branch, here we put code after development branch, here we assure its quality and all, after that it will be mergerd to production(ready to deploy)
