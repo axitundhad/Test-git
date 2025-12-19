@@ -12,3 +12,6 @@ git reset commitHash: by using this your changes remain as it is, just commit wi
 git reset --hard commitHash: commit and changes made by that commit both will be deleted
 
 git checkout: by using checkout, we can switch branches, can create branches, can time travel, detached head, also restore changes
+
+semantic versioning: For versioning there is a format of it
+for example, v13.4.2
