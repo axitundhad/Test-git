@@ -1,0 +1,6 @@
+git config --global user.name "Axit Undhad"
+This set your git username globally, works for all repository
+
+
+git config user.name "Axit LaNet"
+This set your git username locally, works only for this repository
